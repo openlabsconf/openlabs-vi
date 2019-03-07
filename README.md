@@ -1,2 +1,3 @@
 # openlabs-vi
-Repositório com material da sexta edição do evento
+Material da sexta edição do evento - 30/03/2019 no CEFET/RJ Nova Friburgo
+
