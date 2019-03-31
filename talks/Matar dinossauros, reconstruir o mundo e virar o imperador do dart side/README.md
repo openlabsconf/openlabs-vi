@@ -1,11 +1,11 @@
-#Palestra
+# Palestra
 
 Matar dinossauros, reconstruir o mundo e virar o imperador do dart side
 
-##Palestrante
+## Palestrante
 
 Leonardo Marinho
 
-##Contato
+## Contato
 
 http://leomarinho.com.br
