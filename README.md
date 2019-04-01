@@ -5,7 +5,7 @@
 
 ## Talks
 
-*breve*
+Disponíveis na [pasta talks](https://github.com/openlabsconf/openlabs-vi/tree/master/talks).
 
 ## Ajuda
 
